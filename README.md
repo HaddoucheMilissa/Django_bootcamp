@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed on your machine:
 
  
 ```bash
-    python3.13 -m venv name_your_Env
+    python -m venv name_your_Env
 ```
 
 2. **Activate the Virtual Environment:**
