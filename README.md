@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 4. **Clone the repository** 
    ```bash
-   git clone https://github.com/HaddoucheMilissa/Django_Bootcamp.git
+   git clone https://github.com/HaddoucheMilissa/Django_bootcamp.git
 
 
 3. **Navigate into the cloned project folder:
