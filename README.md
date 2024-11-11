@@ -37,17 +37,10 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Create a Virtual Environment:**
 
-  - Windows:
  
-   ```bash
-    python -m venv name_your_Env
+```bash
+    python3.13 -m venv name_your_Env
 ```
-
- - Mac/Linux:
- 
-   ```bash
-    python3 -m venv name_your_Env
-
 
 2. **Activate the Virtual Environment:**
 
@@ -71,6 +64,7 @@ pip install django
 ```
 
 ## Confirming the Installation
+
 
 ```bash
 django-admin --version
